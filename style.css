@@ -1,0 +1,38 @@
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+    border: 1px  solid black;
+    padding: 10px;
+}
+h1
+{
+    color: rgb(73, 73, 137);
+    font-size: 40px;
+  
+    
+}
+hr
+{
+    border-color: rgb(73, 73, 137);
+}
+h3
+{
+    color: darkblue;
+}
+.job-info
+{
+    font-size: larger;
+}
+.list-color
+{
+    color: red;
+}
+ul
+{
+    font-size: larger;
+}
+h2
+{
+    font-size: 30px;
+}
